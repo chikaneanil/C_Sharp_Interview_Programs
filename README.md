@@ -6,4 +6,5 @@ C# Interview Questions available inside this solution.
 # String Program( Reverse Character,Find Duplicate Character)
 # Pattern Program (Palindrome)
 
+
 Clone it and Run (Make Sure each program have one Static void main please uncomment only those method to get expected output)
